@@ -1,6 +1,6 @@
 # Bijan Neupane 👋
 
-🎓 CSIS student at Saginaw Valley State University (Expected Summer 2026)  
+🎓 CIS student at Saginaw Valley State University (Expected Summer 2026)  
 💻 Interested in software development, networking, and full-stack applications
 
 ## 🔧 Technical Skills
